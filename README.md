@@ -1,1 +1,1 @@
-work with bashes and execute them
+do tasks of shell permissions
